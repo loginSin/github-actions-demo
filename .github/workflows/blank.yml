@@ -36,3 +36,4 @@ jobs:
           echo test, and deploy your project.
           echo "current path"
           echo `pwd`
+          sh build.sh
